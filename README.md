@@ -1,3 +1,3 @@
 # My-codes
 <br>
-only for codes
+1. only for codes
