@@ -3,7 +3,7 @@
 This repository contains my practice programs written while learning C and C++.
 
 ## Contents
-- Basic C programs
+- Basic Cpp programs
 - Simple logic-based programs (calculator, percentage, etc.)
 
 ## Purpose
