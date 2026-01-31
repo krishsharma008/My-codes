@@ -8,7 +8,7 @@ This folder contains basic Cpp programs that I wrote during my initial learning 
 - Hello world programs
 - Calendar program
 - 
-## ## Calendar Program
+## Calendar Program
 This is a console-based calendar program written in C.
 
 ### Logic Used
