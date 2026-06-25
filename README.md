@@ -15,5 +15,5 @@ I created this repository to practice programming fundamentals and improve my pr
 
 ## Author
 Krish Sharma  
-B.Tech CSE (1st Year)
+B.Tech CSE (2nd Year)
 
